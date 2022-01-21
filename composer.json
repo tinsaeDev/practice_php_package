@@ -1,17 +1,16 @@
 {
     "name": "sazx/sazx-teraki",
-    "description": "Amharic text to speech by SAZX technologies",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Sazx\\SazxTeraki\\": "src/"
-        }
-    },
+    "description": " Amharic TTS library  ",
+    "keywords": ["tts","Amharic","LLP"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
     "authors": [
         {
-            "name": "tinsaebelay",
-            "email": "tinsaedev@gmail.com"
+            "name": "Tinsae Belay",
+            "email": "tinsaeDev@gmail.com",
+            "homepage": "https://tinsaeDev.github.com",
+            "role": "Developer"
         }
-    ],
-    "require": {}
+    ]
 }
