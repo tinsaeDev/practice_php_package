@@ -4,6 +4,11 @@
     "description": " Amharic TTS library  ",
     "keywords": ["tts","Amharic","LLP"],
     "homepage": "https://yourcompany.com",
+    "autoload": {
+        "psr-4": {
+            "Sazx\\SazxTeraki\\": "src/"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
