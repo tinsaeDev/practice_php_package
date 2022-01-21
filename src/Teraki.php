@@ -11,8 +11,9 @@
 
 
         public static function sayHello(){
+            echo " Greetings from Teraki ";
+            return 1;
 
-            return " Greetings from Teraki ";
         }
     }
 
