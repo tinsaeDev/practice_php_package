@@ -1,0 +1,17 @@
+{
+    "name": "sazx/sazx-teraki",
+    "description": "Amharic text to speech by SAZX technologies",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sazx\\SazxTeraki\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tinsaebelay",
+            "email": "tinsaedev@gmail.com"
+        }
+    ],
+    "require": {}
+}
