@@ -6,7 +6,8 @@
     "homepage": "https://yourcompany.com",
     "autoload": {
         "psr-4": {
-            "Sazx\\SazxTeraki\\": "src/"
+            "Sazx\\SazxTeraki\\": "src/",
+            "Sazx\\SazxTeraki\\Library": "src/lib"
         }
     },
     "license": "MIT",
