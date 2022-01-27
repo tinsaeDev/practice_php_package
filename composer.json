@@ -1,7 +1,7 @@
 {
     "name": "sazx/sazx-teraki",
     "type": "library",
-    "description": " Amharic TTS library  ",
+    "description": " Amharic TTS library Woe  ",
     "keywords": ["tts","Amharic","LLP"],
     "homepage": "https://yourcompany.com",
     "autoload": {
